@@ -12,7 +12,7 @@
              se debe ubicar después de la estructura de selección if / else
  * ERROR #5: Para indicar valores con coma flotante se debe utilizar el
              caracter punto (.) para separar la parte entera de la parte
-             decimal, ya que la coma (,) es utilizada para separar atibutos,
+             decimal, ya que la coma (,) es utilizada para separar atributos,
              parámetros, elementos de arrays o listas, etc
  * ERROR #6: El método log() del objeto console (console.log()) es usado en
              Javascript para mostrar un mensaje en la consola del navegador
